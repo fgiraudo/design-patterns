@@ -1,4 +1,4 @@
-package Observer;
+package observer;
 import java.util.*;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
